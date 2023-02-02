@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Mubin225
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am Muntasir Mubin, a web developer and musician based in Bangladesh. I love challenges and learning new skills, so I hope to make this world a better place.
 
-<!---
-Mubin225/Mubin225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm always looking for ways to help others be more productive and efficient with their time. That's why I love to make websites for businesses, but also create them for individuals.
+
+My goal is to make your life easier by taking away the things that are not so important and making them relevant.
